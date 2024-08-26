@@ -12,5 +12,4 @@ sergiodamianaltamirano
 https://codepen.io/
 
 - Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc)
-- 
 - https://www.mclibre.org/
