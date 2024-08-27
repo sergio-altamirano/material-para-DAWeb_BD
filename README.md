@@ -31,3 +31,11 @@ https://codepen.io/
 - programacion online
 
 - https://coddy.tech/
+
+- ![image](https://github.com/user-attachments/assets/be6c2bc5-fa80-4f09-9038-b4535094f532)
+
+  ##diseño web con figma
+
+  -https://www.figma.com/es-es/
+
+  
